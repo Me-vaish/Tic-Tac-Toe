@@ -1,6 +1,7 @@
 # Tic Tac Toe – Human vs AI (Minimax Algorithm)
 
 ## Live Demo (MVP)
+https://me-vaish.github.io/Tic-Tac-Toe/
 
 
 ---
@@ -76,4 +77,5 @@ The AI selects the move with the best possible outcome and therefore never loses
 
 ## How to Run
 Open the Live Demo (MVP) link in any modern web browser.
+
 
